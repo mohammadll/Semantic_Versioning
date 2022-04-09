@@ -1,5 +1,5 @@
 # Semantic_Versioning of artifacts built with maven (CI goals of Jenkins pipeline)
-This is a great guide to automate the versioning process of artifacts built with maven for CI Goals in jenkins pipeline . Imagine that we want to replace the question mark with a version number without any manual change from us like this: mvn clean deploy -Drevision=?
+This is a great guide to automate the versioning process of artifacts built with maven for CI Goals of jenkins pipeline . Imagine that we want to replace the question mark with a version number without any manual change from us like this: mvn clean deploy -Drevision=?
 
 Semantic Versioning Works like this: 
 (example: 1.0.0)
